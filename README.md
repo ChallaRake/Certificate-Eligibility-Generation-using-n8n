@@ -175,7 +175,10 @@ By building this project, you gain experience in:
 ## 📹 Demo Video
 
 👉 **Watch the full workflow demo here:**  
-[*Certificate Eligibility Generation Automation*](https://www.linkedin.com/posts/challa-rakesh-reddy_n8n-automation-nocode-activity-7397229351999586304-pjDp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7NTjAB5LIcCGe6w75x6giyS2sV95rQD14)
+### [*Certificate Eligibility Generation Automation*](https://www.linkedin.com/posts/challa-rakesh-reddy_n8n-automation-nocode-activity-7397229351999586304-pjDp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7NTjAB5LIcCGe6w75x6giyS2sV95rQD14)
+
+---
+
 <img width="1061" height="753" alt="Screenshot 2025-11-20 154355" src="https://github.com/user-attachments/assets/5a2e2533-f1a7-40c0-bdf8-957fff9d7efc" />
 
 ---
