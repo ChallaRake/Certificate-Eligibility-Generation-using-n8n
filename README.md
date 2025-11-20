@@ -12,7 +12,7 @@ This end-to-end automation reduces manual evaluation effort, ensures timely comm
 
 ---
 
-## 🖼️ Workflow Diagram (from Provided Image)
+## 🖼️ Workflow Diagram
 
 ```
 Google Sheets Trigger
@@ -176,6 +176,7 @@ By building this project, you gain experience in:
 
 👉 **Watch the full workflow demo here:**  
 *(Add your video link, YouTube URL, or MP4 file path below)*
+<img width="1061" height="753" alt="Screenshot 2025-11-20 154355" src="https://github.com/user-attachments/assets/5a2e2533-f1a7-40c0-bdf8-957fff9d7efc" />
 
 ---
 
